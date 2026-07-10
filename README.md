@@ -18,3 +18,7 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+Contributor Name: jalenmendoza08
+
+Feature Added:
+- Digital Library Dashboard
